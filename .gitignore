@@ -2,3 +2,6 @@ vue/node_modules
 vue/dist
 vue/.cache
 build
+.DS_Store
+*/.DS_Store
+**/*/.DS_Store
